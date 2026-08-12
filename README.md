@@ -9,10 +9,6 @@
 <br>
 <br>
 
-
-<div>🍊Velog🍊 <a href="https://velog.io/@heeco">https://velog.io/@heeco</a></div>
-<div>🍋Tistory🍋 <a href="https://heesuu.tistory.com">https://heesuu.tistory.com</a></div>
-
 <br>
 
 
