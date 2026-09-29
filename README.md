@@ -29,9 +29,6 @@
 <br>
 <br>
 
-
-
-![Heeesuu's github stats](https://github-readme-stats.vercel.app/api?username=Heeesuu&show_icons=true&theme=buefy)
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuehee)](https://solved.ac/ssuehee)
 
 </div>
